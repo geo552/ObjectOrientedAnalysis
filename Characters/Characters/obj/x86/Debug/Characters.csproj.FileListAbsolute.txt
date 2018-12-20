@@ -1,0 +1,6 @@
+D:\203\Characters\Characters\bin\Debug\Characters.exe
+D:\203\Characters\Characters\bin\Debug\Characters.pdb
+D:\203\Characters\Characters\obj\x86\Debug\Characters.exe
+D:\203\Characters\Characters\obj\x86\Debug\Characters.pdb
+F:\Characters\Characters\obj\x86\Debug\Characters.exe
+F:\Characters\Characters\obj\x86\Debug\Characters.pdb
